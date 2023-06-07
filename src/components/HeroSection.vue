@@ -6,7 +6,7 @@ import Button from './Button.vue';
   <div class="container py-5">
     <div class="row flex-lg-row-reverse align-items-center d-flex g-5 justify-content-between py-5">
       <div class="col-10 col-sm-8 col-lg-6">
-        <img src="../assets/12.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
+        <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_tijmpky4.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px;"  loop controls autoplay></lottie-player>
       </div>
       <div class="col-lg-6">
         <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">
